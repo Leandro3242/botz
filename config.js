@@ -11,13 +11,13 @@ global.owner = [
   ['5492976232784', '👑 Mystic - Creador 👑', true],
   ['51921139017', '💫 Mystic - Collaborator 1 💫', true],
   ['573208266162', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['393518398856','💫 Mystic - Tester Fabri115💫', true],
+  ['51960079181', '💫 Mystic - Collaborator 3 💫', true],
+  ['', '💫 Mystic - Collaborator 4 💫', true],
+  ['', '💫 Mystic - Collaborator 5 💫', true],
+  ['', '💫 Mystic - Collaborator 6 💫', true],
+  ['', '💫 Mystic - Collaborator 7 💫', false],
+  ['', '💫 Mystic - Collaborator 8 💫', true],
+  ['','💫 Mystic - Tester Fabri115💫', true],
 ];
 
 global.suittag = ['5492976232784'];
